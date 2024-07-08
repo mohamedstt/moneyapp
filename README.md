@@ -80,5 +80,5 @@ This project has a MIT license that can be in [LICENSE](/LICENSE) for more detai
 
 made with :orange_heart: by [Mohamed Schuster](https://github.com/mohamedstt)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Martins-ff512f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-schuster/)](https://www.linkedin.com/in/mohamed-schuster/)
+[![Linkedin Badge](https://img.shields.io/badge/-mohamedschuster-ff512f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-schuster/)](https://www.linkedin.com/in/mohamed-schuster/)
 [![Gmail Badge](https://img.shields.io/badge/-mohamedschof@gmail.com-ff512f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedschof@gmail.com)](mailto:mohamedschof@gmail.com)
